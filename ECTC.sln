@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECTC", "ECTC\ECTC.csproj", "{6E4FD3D9-F8A7-44FE-9F33-C321555E6701}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E4FD3D9-F8A7-44FE-9F33-C321555E6701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E4FD3D9-F8A7-44FE-9F33-C321555E6701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E4FD3D9-F8A7-44FE-9F33-C321555E6701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E4FD3D9-F8A7-44FE-9F33-C321555E6701}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F90EF0C-3262-4425-9F08-FE208B2641EF}
+	EndGlobalSection
+EndGlobal
